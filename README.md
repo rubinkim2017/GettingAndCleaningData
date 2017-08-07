@@ -1,5 +1,3 @@
-# GettingAndCleaningData
-Peer-graded Assignment: Getting and Cleaning Data Course Project
 The scripts of my "run_analysis.R" are following:
 
 ##Getting and Cleaning Data Course Project
